@@ -1,5 +1,7 @@
 {
   "name": "navigator",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
